@@ -1,0 +1,9 @@
+{
+    "key_id": "aje9hl0k3uo380qhh795",
+    "service_account_id": "aje9r4dje36v5fr1a7rh",
+    "key_file": "./config/key.pem",
+    "address": ":80",
+    "logging_url": "http://192.168.1.113:8888",
+    "folder_id": "b1gqdsr7749ioeg4gfir",
+    "key_name": "web-srv-key"
+}
